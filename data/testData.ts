@@ -101,10 +101,3 @@ export const UI_MESSAGES = {
     checkoutSuccess: 'Thanks for your purchase. Please check your email for payment.',
     promoHeaderSnippet: "It's your lucky day!",
 };
-
-
-export const UI_MESSAGES = {
-    emptyCart: 'No coffee, go add some.',
-    checkoutSuccess: 'Thanks for your purchase. Please check your email for payment.',
-    promoHeaderSnippet: "It's your lucky day!",
-};
